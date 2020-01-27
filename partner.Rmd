@@ -1,0 +1,16 @@
+---
+title: "partner.Rmd"
+author: "Nick Matthews; Github: nickmatthews713"
+date: "1/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Commit Info  
+My partners most recent commit was found using git log. His last commit was Jan 22 13:08:19 2020 -0600 to the master branch. The commit ID is f91ba0b575ecb505e2b263fc273c38901068e11b  
+
+## Errors
+no errors in knitting the owners Rmd file
